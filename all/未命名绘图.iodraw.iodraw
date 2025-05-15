@@ -7,7 +7,7 @@
         <mxCell id="eZywUnmjDa6Le1DIuY0h-51" value="数据采集层 [数据采集层]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="396" y="1483" width="1324" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="eZywUnmjDa6Le1DIuY0h-52" value="模型层 [模型层]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eZywUnmjDa6Le1DIuY0h-52" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="380" y="1137" width="1372" height="296" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-53" value="功能层 [功能层]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -46,7 +46,7 @@
         <mxCell id="eZywUnmjDa6Le1DIuY0h-64" value="自愈策略生成与执行" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1142" y="1014" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eZywUnmjDa6Le1DIuY0h-65" value="模型层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eZywUnmjDa6Le1DIuY0h-65" value="模型层" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1708" y="865" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-66" value="L0层（云端大模型）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
@@ -73,7 +73,7 @@
         <mxCell id="eZywUnmjDa6Le1DIuY0h-73" value="L2层（设备端大模型）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1497" y="1360" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eZywUnmjDa6Le1DIuY0h-74" value="数据采集层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eZywUnmjDa6Le1DIuY0h-74" value="数据采集层" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1866" y="865" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-75" value="网络设备状态数据" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
