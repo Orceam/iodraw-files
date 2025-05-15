@@ -31,7 +31,7 @@
         <mxCell id="eZywUnmjDa6Le1DIuY0h-59" value="知识管理系统" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="952" y="865" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eZywUnmjDa6Le1DIuY0h-60" value="功能层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eZywUnmjDa6Le1DIuY0h-60" value="功能层" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="1550" y="865" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-61" value="网络状态感知" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -43,7 +43,7 @@
         <mxCell id="eZywUnmjDa6Le1DIuY0h-63" value="根因分析" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="968" y="1014" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eZywUnmjDa6Le1DIuY0h-64" value="自愈策略生成与执行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eZywUnmjDa6Le1DIuY0h-64" value="自愈策略生成与执行" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1142" y="1014" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-65" value="模型层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
