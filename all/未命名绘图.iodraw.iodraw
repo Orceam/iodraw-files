@@ -11,7 +11,7 @@
           <mxGeometry x="380" y="1137" width="1372" height="296" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-53" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="505" y="989" width="876" height="99" as="geometry" />
+          <mxGeometry x="280" y="989" width="1101" height="99" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-54" value="应用层" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="280" y="840" width="1077" height="99" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="1142" y="1014" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-65" value="模型层" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1290" width="108" height="49" as="geometry" />
+          <mxGeometry x="420" y="1630" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-66" value="L0层（云端大模型）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="809" y="1162" width="204" height="49" as="geometry" />
