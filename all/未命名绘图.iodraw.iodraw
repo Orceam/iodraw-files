@@ -89,7 +89,7 @@
           <mxGeometry x="1163" y="1508" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-79" value="历史故障数据" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1529" y="1508" width="156" height="49" as="geometry" />
+          <mxGeometry x="1402" y="1508" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="eZywUnmjDa6Le1DIuY0h-56" target="eZywUnmjDa6Le1DIuY0h-62">
           <mxGeometry relative="1" as="geometry">
