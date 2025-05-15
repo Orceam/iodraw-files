@@ -62,7 +62,7 @@
           <mxGeometry x="415" y="1360" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-70" value="L2层（设备端大模型）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="685" y="1360" width="220" height="49" as="geometry" />
+          <mxGeometry x="654" y="1360" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-71" value="L2层（设备端大模型）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="956" y="1360" width="220" height="49" as="geometry" />
