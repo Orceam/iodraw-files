@@ -86,7 +86,7 @@
           <mxGeometry x="926" y="1508" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-78" value="环境感知数据" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1259" y="1508" width="156" height="49" as="geometry" />
+          <mxGeometry x="1163" y="1508" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-79" value="历史故障数据" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1529" y="1508" width="156" height="49" as="geometry" />
