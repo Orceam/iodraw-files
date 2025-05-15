@@ -65,7 +65,7 @@
           <mxGeometry x="654" y="1360" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-71" value="L2层（设备端大模型）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="956" y="1360" width="220" height="49" as="geometry" />
+          <mxGeometry x="888" y="1360" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-72" value="L2层（设备端大模型）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1226" y="1360" width="220" height="49" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="431" y="1508" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-76" value="网络流量数据" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="718" y="1508" width="156" height="49" as="geometry" />
+          <mxGeometry x="686" y="1508" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-77" value="网络拓扑数据" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="988" y="1508" width="156" height="49" as="geometry" />
