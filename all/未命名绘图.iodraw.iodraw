@@ -32,7 +32,7 @@
           <mxGeometry x="952" y="865" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-60" value="功能层" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1000" width="108" height="49" as="geometry" />
+          <mxGeometry x="250" y="1610" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-61" value="网络状态感知" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="540" y="1014" width="156" height="49" as="geometry" />
