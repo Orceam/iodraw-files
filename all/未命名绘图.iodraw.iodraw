@@ -7,7 +7,7 @@
         <mxCell id="eZywUnmjDa6Le1DIuY0h-51" value="数据采集层 " style="whiteSpace=wrap;strokeWidth=2;fontSize=20;align=right;" vertex="1" parent="1">
           <mxGeometry x="380" y="1483" width="1300" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="eZywUnmjDa6Le1DIuY0h-52" value="模型层" style="whiteSpace=wrap;strokeWidth=2;align=right;verticalAlign=middle;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="eZywUnmjDa6Le1DIuY0h-52" value="模型层" style="whiteSpace=wrap;strokeWidth=2;align=right;verticalAlign=middle;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="380" y="1137" width="1300" height="296" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-53" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
