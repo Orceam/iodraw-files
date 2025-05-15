@@ -31,9 +31,6 @@
         <mxCell id="eZywUnmjDa6Le1DIuY0h-59" value="知识管理系统" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="952" y="865" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eZywUnmjDa6Le1DIuY0h-60" value="功能层" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1000" width="108" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-61" value="网络状态感知" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="540" y="1014" width="156" height="49" as="geometry" />
         </mxCell>
@@ -45,9 +42,6 @@
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-64" value="自愈策略生成与执行" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1142" y="1014" width="204" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="eZywUnmjDa6Le1DIuY0h-65" value="模型层" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1290" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-66" value="L0层（云端大模型）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="809" y="1162" width="204" height="49" as="geometry" />
