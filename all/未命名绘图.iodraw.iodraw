@@ -17,7 +17,7 @@
           <mxGeometry x="505" y="830" width="852" height="109" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-55" value="应用层" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="865" width="108" height="49" as="geometry" />
+          <mxGeometry x="370" y="691" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-56" value="故障预警系统" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="746" y="865" width="156" height="49" as="geometry" />
