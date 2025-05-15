@@ -14,7 +14,7 @@
           <mxGeometry x="380" y="989" width="1001" height="99" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-54" value="应用层" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="380" y="840" width="977" height="99" as="geometry" />
+          <mxGeometry x="380" y="840" width="1370" height="99" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-55" value="应用层" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="370" y="691" width="108" height="49" as="geometry" />
@@ -212,9 +212,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="eZywUnmjDa6Le1DIuY0h-101" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1013" y="740" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
