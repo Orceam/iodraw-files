@@ -43,7 +43,7 @@
         <mxCell id="eZywUnmjDa6Le1DIuY0h-63" value="根因分析" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="968" y="1014" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eZywUnmjDa6Le1DIuY0h-64" value="自愈策略生成与执行" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="eZywUnmjDa6Le1DIuY0h-64" value="自愈策略生成与执行" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1142" y="1014" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-65" value="模型层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -70,7 +70,7 @@
         <mxCell id="eZywUnmjDa6Le1DIuY0h-72" value="L2层（设备端大模型）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1226" y="1360" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eZywUnmjDa6Le1DIuY0h-73" value="L2层（设备端大模型）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eZywUnmjDa6Le1DIuY0h-73" value="L2层（设备端大模型）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1497" y="1360" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eZywUnmjDa6Le1DIuY0h-74" value="数据采集层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
