@@ -98,6 +98,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-191" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="311.5" width="560" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-154" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-125" target="OrUbYamV3xKL4vjW-wNw-137">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -121,9 +124,6 @@
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-187" value="服务层" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="152.5" y="200" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-191" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="270" y="311.5" width="560" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-188" value="模型层" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="152.5" y="321" width="100" height="100" as="geometry" />
