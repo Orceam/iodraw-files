@@ -41,7 +41,7 @@
           <mxGeometry x="656" y="105.5" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-129" value="风险评估服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="200" width="156" height="49" as="geometry" />
+          <mxGeometry x="290" y="225" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-130" value="设备调度服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="715" y="274" width="156" height="49" as="geometry" />
