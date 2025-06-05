@@ -40,10 +40,10 @@
         <mxCell id="OrUbYamV3xKL4vjW-wNw-128" value="数据管理页面" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="656" y="105.5" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-129" value="风险评估服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-129" value="风险评估服务" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="290" y="225" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-130" value="设备调度服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-130" value="设备调度服务" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="475" y="230" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-131" value="数据管理服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
