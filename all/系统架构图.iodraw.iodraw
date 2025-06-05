@@ -16,7 +16,7 @@
           <mxGeometry x="734" y="185" width="224" height="125" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-365" value="设备调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1621" y="459" width="718" height="267" as="geometry" />
+          <mxGeometry x="1039" y="484" width="718" height="267" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-366" value="风险评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="131" y="622" width="837" height="129" as="geometry" />
@@ -33,6 +33,9 @@
         <mxCell id="OrUbYamV3xKL4vjW-wNw-370" value="数据预处理" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="555" y="419" width="129" height="129" as="geometry" />
         </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-391" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-371" target="OrUbYamV3xKL4vjW-wNw-373">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-371" value="MongoDB 数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="764" y="459" width="177" height="49" as="geometry" />
         </mxCell>
@@ -46,13 +49,13 @@
           <mxGeometry x="769" y="657" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-375" value="用户请求设备调度建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1646" y="637" width="220" height="49" as="geometry" />
+          <mxGeometry x="1064" y="662" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-376" value="专业化应急设备调度分析模型" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1916" y="579" width="222" height="66" as="geometry" />
+          <mxGeometry x="1334" y="604" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-377" value="设备调度方案" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="2188" y="588" width="126" height="49" as="geometry" />
+          <mxGeometry x="1606" y="613" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-378" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="800" y="226" width="92" height="49" as="geometry" />
@@ -89,14 +92,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-386" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-371" target="OrUbYamV3xKL4vjW-wNw-376">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="972" y="513" />
-              <mxPoint x="1891" y="513" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-387" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-376" target="OrUbYamV3xKL4vjW-wNw-377">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -105,7 +100,7 @@
         <mxCell id="OrUbYamV3xKL4vjW-wNw-388" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.09;entryY=1;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-375" target="OrUbYamV3xKL4vjW-wNw-376">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1891" y="662" />
+              <mxPoint x="1309" y="687" />
             </Array>
           </mxGeometry>
         </mxCell>
