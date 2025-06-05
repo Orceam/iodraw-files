@@ -103,14 +103,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-148" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.41;entryX=0.42;entryY=1;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-123" target="OrUbYamV3xKL4vjW-wNw-131">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="409" y="477" />
-              <mxPoint x="459" y="477" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-149" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0;entryX=0.46;entryY=0.99;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-124" target="OrUbYamV3xKL4vjW-wNw-132">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
