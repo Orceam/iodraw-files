@@ -21,7 +21,7 @@
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="数据库" position="MongoDB" location="数据层" email="数据存储与管理" _7EA6E0="#333" placeholders="1" link="https://www.mongodb.com" id="OrUbYamV3xKL4vjW-wNw-60">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/mongodb.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#3FA037;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="220" y="700" width="160" height="90" as="geometry" />
+            <mxGeometry x="645" y="150" width="160" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="外部API服务" position="第三方接口" location="接口层" email="外部数据服务" _7EA6E0="#333" placeholders="1" link="https://example.com/api" id="OrUbYamV3xKL4vjW-wNw-61">
