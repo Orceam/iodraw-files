@@ -64,11 +64,6 @@
             <mxGeometry x="610" y="710" width="180" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="设备调度模型" position="专业模型" location="模型层" email="设备调度实现" _7EA6E0="#333" placeholders="1" link="https://example.com/models/equipment" id="OrUbYamV3xKL4vjW-wNw-69">
-          <mxCell style="label;image=https://img.icons8.com/color/48/000000/deployment.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#80CBC4;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="210" y="830" width="180" height="90" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="大模型集成" position="AI模型" location="模型层" email="大模型集成实现" _7EA6E0="#333" placeholders="1" link="https://example.com/models/llm" id="OrUbYamV3xKL4vjW-wNw-70">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/artificial-intelligence.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#80CBC4;strokeColor=%stroke%;" vertex="1" parent="1">
             <mxGeometry x="440" y="450" width="170" height="90" as="geometry" />
@@ -119,7 +114,7 @@
         <mxCell id="OrUbYamV3xKL4vjW-wNw-81" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-63" target="OrUbYamV3xKL4vjW-wNw-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-82" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-64" target="OrUbYamV3xKL4vjW-wNw-60">
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-82" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-69" target="OrUbYamV3xKL4vjW-wNw-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-83" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-66" target="OrUbYamV3xKL4vjW-wNw-67">
@@ -152,6 +147,17 @@
         <mxCell id="OrUbYamV3xKL4vjW-wNw-92" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-71" target="OrUbYamV3xKL4vjW-wNw-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-93" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-64" target="OrUbYamV3xKL4vjW-wNw-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="700" as="sourcePoint" />
+            <mxPoint x="675" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="设备调度模型" position="专业模型" location="模型层" email="设备调度实现" _7EA6E0="#333" placeholders="1" link="https://example.com/models/equipment" id="OrUbYamV3xKL4vjW-wNw-69">
+          <mxCell style="label;image=https://img.icons8.com/color/48/000000/deployment.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#80CBC4;strokeColor=%stroke%;" vertex="1" parent="1">
+            <mxGeometry x="435" y="330" width="180" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
