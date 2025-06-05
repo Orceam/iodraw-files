@@ -66,7 +66,7 @@
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="设备调度模型" position="专业模型" location="模型层" email="设备调度实现" _7EA6E0="#333" placeholders="1" link="https://example.com/models/equipment" id="OrUbYamV3xKL4vjW-wNw-69">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/deployment.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#80CBC4;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="390" y="890" width="180" height="90" as="geometry" />
+            <mxGeometry x="210" y="830" width="180" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="大模型集成" position="AI模型" location="模型层" email="大模型集成实现" _7EA6E0="#333" placeholders="1" link="https://example.com/models/llm" id="OrUbYamV3xKL4vjW-wNw-70">
