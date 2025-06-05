@@ -19,9 +19,6 @@
         <mxCell id="OrUbYamV3xKL4vjW-wNw-120" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="270" y="80" width="560" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-122" value="表现层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="152.5" y="80" width="100" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-123" value="服务层" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="375" y="750" width="97" height="130" as="geometry" />
         </mxCell>
@@ -122,29 +119,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-187" value="服务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="152.5" y="200" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-188" value="模型层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="152.5" y="321" width="100" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-192" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="79.5" width="100" height="460.5" as="geometry" />
-        </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-193" value="模型层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="152.5" y="440" width="100" height="100" as="geometry" />
+          <mxGeometry x="42" y="79.5" width="100" height="460.5" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-194" value="表现层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="115" width="60" height="30" as="geometry" />
+          <mxGeometry x="61" y="115" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-195" value="服务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="235" width="60" height="30" as="geometry" />
+          <mxGeometry x="61" y="235" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-196" value="模型层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="355.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="61" y="355.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-197" value="模型层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="475" width="60" height="30" as="geometry" />
+          <mxGeometry x="61" y="475" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
