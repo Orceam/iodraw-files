@@ -51,6 +51,9 @@
         <mxCell id="OrUbYamV3xKL4vjW-wNw-374" value="风险分数及风险等级" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="765.5" y="661" width="174" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-398" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-375" target="OrUbYamV3xKL4vjW-wNw-376">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-375" value="用户请求设备调度建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1064" y="661" width="220" height="49" as="geometry" />
         </mxCell>
@@ -91,13 +94,6 @@
         <mxCell id="OrUbYamV3xKL4vjW-wNw-387" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-376" target="OrUbYamV3xKL4vjW-wNw-377">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-388" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.09;entryY=1;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-375" target="OrUbYamV3xKL4vjW-wNw-376">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1309" y="686" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-395" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.072;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-371" target="OrUbYamV3xKL4vjW-wNw-376">
