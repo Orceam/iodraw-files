@@ -56,7 +56,7 @@
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="服务层" position="后端组件" location="服务层" email="业务服务实现" _7EA6E0="#333" placeholders="1" link="https://example.com/services" id="OrUbYamV3xKL4vjW-wNw-67">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/service.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#80CBC4;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="710" y="570" width="150" height="90" as="geometry" />
+            <mxGeometry x="280" y="840" width="380" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="洪涝灾害模型" position="专业模型" location="模型层" email="风险评估实现" _7EA6E0="#333" placeholders="1" link="https://example.com/models/risk" id="OrUbYamV3xKL4vjW-wNw-68">
