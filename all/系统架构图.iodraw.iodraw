@@ -49,7 +49,7 @@
           <mxGeometry x="521" y="661" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-374" value="风险分数及风险等级" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="767" y="662" width="174" height="49" as="geometry" />
+          <mxGeometry x="765.5" y="661" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-375" value="用户请求设备调度建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1064" y="661" width="220" height="49" as="geometry" />
