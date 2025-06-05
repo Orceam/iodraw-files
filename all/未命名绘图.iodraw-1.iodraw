@@ -9,7 +9,7 @@
             <mxGeometry x="20" y="210" width="270" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="前端" position="React框架" location="表现层" email="前端展示与交互" _7EA6E0="#333" placeholders="1" link="https://reactjs.org" id="OrUbYamV3xKL4vjW-wNw-58">
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" name="前端" position="React框架" location="表现层" email="前端展示与交互" _7EA6E0="#333" placeholders="1" link="https://reactjs.org" id="OrUbYamV3xKL4vjW-wNw-58">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/react-native.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#61DAFB;strokeColor=%stroke%;" vertex="1" parent="1">
             <mxGeometry x="40" y="570" width="160" height="90" as="geometry" />
           </mxCell>
