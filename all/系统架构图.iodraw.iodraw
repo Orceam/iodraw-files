@@ -124,7 +124,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-265" value="数据管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-296" y="631" width="224" height="125" as="geometry" />
+          <mxGeometry x="-296" y="631" width="224" height="818" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-266" value="设备调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1039" y="881" width="718" height="267" as="geometry" />
