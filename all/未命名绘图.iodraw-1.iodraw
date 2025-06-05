@@ -26,7 +26,7 @@
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="外部API服务" position="第三方服务" location="外部服务层" placeholders="1" link="" id="OrUbYamV3xKL4vjW-wNw-98">
           <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=#F9A825;strokeColor=#333;" vertex="1" parent="1">
-            <mxGeometry x="170" y="1770" width="170" height="90" as="geometry" />
+            <mxGeometry x="540" y="1950" width="170" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="风险评估页面" position="UI组件" location="前端层" placeholders="1" link="" id="OrUbYamV3xKL4vjW-wNw-99">
@@ -76,7 +76,7 @@
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="大模型集成" position="AI接口" location="集成层" placeholders="1" link="" id="OrUbYamV3xKL4vjW-wNw-108">
           <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=#80CBC4;strokeColor=#333;" vertex="1" parent="1">
-            <mxGeometry x="20" y="1720" width="170" height="90" as="geometry" />
+            <mxGeometry x="220" y="1950" width="170" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="城市风险数据" position="数据集" location="数据层" placeholders="1" link="" id="OrUbYamV3xKL4vjW-wNw-109">
