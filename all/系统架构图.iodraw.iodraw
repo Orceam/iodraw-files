@@ -171,9 +171,6 @@
         <mxCell id="OrUbYamV3xKL4vjW-wNw-280" value="设备调度方案" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1606" y="1010" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-281" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1172" y="768" width="92" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-282" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-269" target="OrUbYamV3xKL4vjW-wNw-270">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -218,20 +215,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-290" value="查询/修改" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.91;entryY=-0.01;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-281" target="OrUbYamV3xKL4vjW-wNw-274">
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-290" value="查询/修改" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.91;entryY=-0.01;rounded=0;" edge="1" parent="1" target="OrUbYamV3xKL4vjW-wNw-274">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1118" y="812" />
               <mxPoint x="992" y="812" />
             </Array>
+            <mxPoint x="1172" y="800.8299999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-291" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=-0.01;entryX=0;entryY=0.37;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-274" target="OrUbYamV3xKL4vjW-wNw-281">
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-291" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=-0.01;entryX=0;entryY=0.37;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-274">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="992" y="777" />
               <mxPoint x="1118" y="777" />
             </Array>
+            <mxPoint x="1172" y="786.1300000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
