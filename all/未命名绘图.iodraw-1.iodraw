@@ -41,7 +41,7 @@
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="数据管理页面" position="前端组件" location="视图层" email="数据管理功能界面" _7EA6E0="#333" placeholders="1" link="https://example.com/data" id="OrUbYamV3xKL4vjW-wNw-64">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/database--v1.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#96D0F7;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="400" y="620" width="180" height="90" as="geometry" />
+            <mxGeometry x="490" y="560" width="180" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="UI组件库" position="前端组件" location="视图层" email="通用界面组件" _7EA6E0="#333" placeholders="1" link="https://ant.design" id="OrUbYamV3xKL4vjW-wNw-65">
