@@ -68,6 +68,9 @@
         <mxCell id="OrUbYamV3xKL4vjW-wNw-377" value="设备调度方案" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1330" y="533" width="126" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-403" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-378" target="OrUbYamV3xKL4vjW-wNw-371">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-378" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="814" y="241" width="92" height="49" as="geometry" />
         </mxCell>
@@ -100,9 +103,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-401" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.676;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-378" target="OrUbYamV3xKL4vjW-wNw-371">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
