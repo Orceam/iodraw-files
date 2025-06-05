@@ -61,7 +61,7 @@
           <mxGeometry x="1062" y="524.5" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-377" value="设备调度方案" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1350" y="590.5" width="126" height="49" as="geometry" />
+          <mxGeometry x="1330" y="533" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-378" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="814" y="241" width="92" height="49" as="geometry" />
