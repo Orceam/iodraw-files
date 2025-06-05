@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-364" value="数据管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1098" y="358" width="224" height="125" as="geometry" />
+          <mxGeometry x="734" y="185" width="224" height="125" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-365" value="设备调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1621" y="459" width="718" height="267" as="geometry" />
@@ -55,7 +55,7 @@
           <mxGeometry x="2188" y="588" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-378" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1164" y="399" width="92" height="49" as="geometry" />
+          <mxGeometry x="800" y="226" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-379" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-368" target="OrUbYamV3xKL4vjW-wNw-369">
           <mxGeometry relative="1" as="geometry">
@@ -121,7 +121,6 @@
         <mxCell id="OrUbYamV3xKL4vjW-wNw-389" value="查询/修改" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.91;entryY=-0.01;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-378" target="OrUbYamV3xKL4vjW-wNw-371">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1119" y="408" />
               <mxPoint x="1098" y="443" />
               <mxPoint x="972" y="443" />
             </Array>
