@@ -129,7 +129,10 @@
           <mxGeometry x="152.5" y="321" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-192" value="表现层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="162.5" y="90" width="100" height="100" as="geometry" />
+          <mxGeometry x="40" y="79.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-193" value="模型层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="444.5" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
