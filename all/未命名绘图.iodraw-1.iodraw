@@ -11,7 +11,7 @@
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="前端" position="React框架" location="表现层" email="前端展示与交互" _7EA6E0="#333" placeholders="1" link="https://reactjs.org" id="OrUbYamV3xKL4vjW-wNw-58">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/react-native.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#61DAFB;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="20" y="580" width="160" height="90" as="geometry" />
+            <mxGeometry x="40" y="570" width="160" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="后端" position="FastAPI框架" location="业务层" email="业务逻辑处理" _7EA6E0="#333" placeholders="1" link="https://fastapi.tiangolo.com" id="OrUbYamV3xKL4vjW-wNw-59">
@@ -26,7 +26,7 @@
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="外部API服务" position="第三方接口" location="接口层" email="外部数据服务" _7EA6E0="#333" placeholders="1" link="https://example.com/api" id="OrUbYamV3xKL4vjW-wNw-61">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/api.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#F9A825;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="500" y="340" width="170" height="90" as="geometry" />
+            <mxGeometry x="390" y="430" width="170" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="风险评估页面" position="前端组件" location="视图层" email="风险评估功能界面" _7EA6E0="#333" placeholders="1" link="https://example.com/risk" id="OrUbYamV3xKL4vjW-wNw-62">
@@ -51,7 +51,7 @@
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="API接口路由" position="后端组件" location="控制层" email="请求路由处理" _7EA6E0="#333" placeholders="1" link="https://example.com/api/docs" id="OrUbYamV3xKL4vjW-wNw-66">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/routing.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#80CBC4;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="340" y="420" width="170" height="90" as="geometry" />
+            <mxGeometry x="870" y="500" width="170" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="服务层" position="后端组件" location="服务层" email="业务服务实现" _7EA6E0="#333" placeholders="1" link="https://example.com/services" id="OrUbYamV3xKL4vjW-wNw-67">
