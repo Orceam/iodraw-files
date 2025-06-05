@@ -55,7 +55,7 @@
           <mxGeometry x="1064" y="661" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-376" value="专业化应急设备调度分析模型" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1334" y="603" width="222" height="66" as="geometry" />
+          <mxGeometry x="1064" y="582" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-377" value="设备调度方案" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1606" y="612" width="126" height="49" as="geometry" />
