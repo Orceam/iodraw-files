@@ -44,10 +44,10 @@
           <mxGeometry x="290" y="225" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-130" value="设备调度服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="715" y="274" width="156" height="49" as="geometry" />
+          <mxGeometry x="475" y="230" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-131" value="数据管理服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="715" y="372" width="156" height="49" as="geometry" />
+          <mxGeometry x="656" y="230" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-132" value="专业化洪涝灾害模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="739" y="895" width="204" height="49" as="geometry" />
