@@ -26,7 +26,7 @@
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="外部API服务" position="第三方接口" location="接口层" email="外部数据服务" _7EA6E0="#333" placeholders="1" link="https://example.com/api" id="OrUbYamV3xKL4vjW-wNw-61">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/api.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#F9A825;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="390" y="430" width="170" height="90" as="geometry" />
+            <mxGeometry x="220" y="450" width="170" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="风险评估页面" position="前端组件" location="视图层" email="风险评估功能界面" _7EA6E0="#333" placeholders="1" link="https://example.com/risk" id="OrUbYamV3xKL4vjW-wNw-62">
@@ -36,7 +36,7 @@
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="设备调度页面" position="前端组件" location="视图层" email="设备调度功能界面" _7EA6E0="#333" placeholders="1" link="https://example.com/equipment" id="OrUbYamV3xKL4vjW-wNw-63">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/dispatch.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#96D0F7;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="150" y="940" width="180" height="90" as="geometry" />
+            <mxGeometry x="200" y="1000" width="180" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="数据管理页面" position="前端组件" location="视图层" email="数据管理功能界面" _7EA6E0="#333" placeholders="1" link="https://example.com/data" id="OrUbYamV3xKL4vjW-wNw-64">
