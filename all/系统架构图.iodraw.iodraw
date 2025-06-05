@@ -12,6 +12,136 @@
             <mxPoint x="456.05479452054806" y="836.3698630136987" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="气象数据" placeholders="1" id="OrUbYamV3xKL4vjW-wNw-324">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=#E1F5FE;strokeColor=#0288D1;" vertex="1" parent="1">
+            <mxGeometry x="21" y="293" width="161" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="地理数据" placeholders="1" id="OrUbYamV3xKL4vjW-wNw-325">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=#E1F5FE;strokeColor=#0288D1;" vertex="1" parent="1">
+            <mxGeometry x="311" y="21" width="161" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="水文数据" placeholders="1" id="OrUbYamV3xKL4vjW-wNw-326">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=#E1F5FE;strokeColor=#0288D1;" vertex="1" parent="1">
+            <mxGeometry x="436" y="229" width="161" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="历史灾害数据" placeholders="1" id="OrUbYamV3xKL4vjW-wNw-327">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=#E1F5FE;strokeColor=#0288D1;" vertex="1" parent="1">
+            <mxGeometry x="69" y="59" width="170" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="多源数据采集模块" placeholders="1" id="OrUbYamV3xKL4vjW-wNw-328">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=#B3E5FC;strokeColor=#0288D1;" vertex="1" parent="1">
+            <mxGeometry x="206" y="216" width="194" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="数据预处理" placeholders="1" id="OrUbYamV3xKL4vjW-wNw-329">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=#B3E5FC;strokeColor=#0288D1;" vertex="1" parent="1">
+            <mxGeometry x="235" y="433" width="161" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="MongoDB数据库" placeholders="1" id="OrUbYamV3xKL4vjW-wNw-330">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=#A5D6A7;strokeColor=#388E3C;" vertex="1" parent="1">
+            <mxGeometry x="140" y="621" width="187" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="用户(风险评估)" placeholders="1" id="OrUbYamV3xKL4vjW-wNw-331">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFCCBC;strokeColor=#E64A19;" vertex="1" parent="1">
+            <mxGeometry x="341" y="992" width="178" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="风险评估请求" placeholders="1" id="OrUbYamV3xKL4vjW-wNw-332">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFECB3;strokeColor=#FFA000;" vertex="1" parent="1">
+            <mxGeometry x="541" y="971" width="170" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="专业化洪涝灾害模型" placeholders="1" id="OrUbYamV3xKL4vjW-wNw-333">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFD54F;strokeColor=#FF8F00;" vertex="1" parent="1">
+            <mxGeometry x="667" y="828" width="206" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="风险评估结果" placeholders="1" id="OrUbYamV3xKL4vjW-wNw-334">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFECB3;strokeColor=#FFA000;" vertex="1" parent="1">
+            <mxGeometry x="879" y="778" width="170" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="用户(设备调度)" placeholders="1" id="OrUbYamV3xKL4vjW-wNw-335">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFCCBC;strokeColor=#E64A19;" vertex="1" parent="1">
+            <mxGeometry x="218" y="1407" width="178" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="设备调度请求" placeholders="1" id="OrUbYamV3xKL4vjW-wNw-336">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=#DCEDC8;strokeColor=#689F38;" vertex="1" parent="1">
+            <mxGeometry x="27" y="1453" width="170" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="专业化应急设备调度分析模型" placeholders="1" id="OrUbYamV3xKL4vjW-wNw-337">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=#AED581;strokeColor=#558B2F;" vertex="1" parent="1">
+            <mxGeometry x="33" y="1653" width="254" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="设备调度方案" placeholders="1" id="OrUbYamV3xKL4vjW-wNw-338">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=#DCEDC8;strokeColor=#689F38;" vertex="1" parent="1">
+            <mxGeometry x="272" y="1602" width="170" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="用户(数据管理)" placeholders="1" id="OrUbYamV3xKL4vjW-wNw-339">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFCCBC;strokeColor=#E64A19;" vertex="1" parent="1">
+            <mxGeometry x="713" y="2109" width="178" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="数据管理模块" placeholders="1" id="OrUbYamV3xKL4vjW-wNw-340">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=#D1C4E9;strokeColor=#512DA8;" vertex="1" parent="1">
+            <mxGeometry x="559" y="2223" width="170" height="85" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-341" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-324" target="OrUbYamV3xKL4vjW-wNw-328">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-342" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-325" target="OrUbYamV3xKL4vjW-wNw-328">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-343" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-326" target="OrUbYamV3xKL4vjW-wNw-328">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-344" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-327" target="OrUbYamV3xKL4vjW-wNw-328">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-345" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-328" target="OrUbYamV3xKL4vjW-wNw-329">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-346" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-329" target="OrUbYamV3xKL4vjW-wNw-330">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-347" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-331" target="OrUbYamV3xKL4vjW-wNw-332">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-348" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-332" target="OrUbYamV3xKL4vjW-wNw-333">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-349" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-333" target="OrUbYamV3xKL4vjW-wNw-334">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-350" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-335" target="OrUbYamV3xKL4vjW-wNw-336">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-351" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-336" target="OrUbYamV3xKL4vjW-wNw-337">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-352" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-337" target="OrUbYamV3xKL4vjW-wNw-338">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-353" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-338" target="OrUbYamV3xKL4vjW-wNw-335">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-354" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-339" target="OrUbYamV3xKL4vjW-wNw-340">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-355" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-340" target="OrUbYamV3xKL4vjW-wNw-339">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
