@@ -16,7 +16,7 @@
           <mxGeometry x="734" y="185" width="224" height="125" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-365" value="设备调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1039" y="484" width="718" height="267" as="geometry" />
+          <mxGeometry x="1039" y="483" width="718" height="267" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-366" value="风险评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="131" y="622" width="837" height="129" as="geometry" />
@@ -36,7 +36,7 @@
         <mxCell id="OrUbYamV3xKL4vjW-wNw-391" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-371" target="OrUbYamV3xKL4vjW-wNw-373">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-392" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-371" target="OrUbYamV3xKL4vjW-wNw-376">
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-392" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-371" target="OrUbYamV3xKL4vjW-wNw-376">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-371" value="MongoDB 数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -52,13 +52,13 @@
           <mxGeometry x="769" y="657" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-375" value="用户请求设备调度建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1064" y="662" width="220" height="49" as="geometry" />
+          <mxGeometry x="1064" y="661" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-376" value="专业化应急设备调度分析模型" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1334" y="604" width="222" height="66" as="geometry" />
+          <mxGeometry x="1334" y="603" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-377" value="设备调度方案" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1606" y="613" width="126" height="49" as="geometry" />
+          <mxGeometry x="1606" y="612" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-378" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="800" y="226" width="92" height="49" as="geometry" />
@@ -103,7 +103,7 @@
         <mxCell id="OrUbYamV3xKL4vjW-wNw-388" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.09;entryY=1;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-375" target="OrUbYamV3xKL4vjW-wNw-376">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1309" y="687" />
+              <mxPoint x="1309" y="686" />
             </Array>
           </mxGeometry>
         </mxCell>
