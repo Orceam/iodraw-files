@@ -6,12 +6,12 @@
         <mxCell id="1" parent="0" />
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="洪涝灾害应急设备调度分析系统" position="主系统" location="" placeholders="1" link="" id="OrUbYamV3xKL4vjW-wNw-94">
           <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=#4A6CD8;strokeColor=#333;" vertex="1" parent="1">
-            <mxGeometry x="20" y="110" width="270" height="90" as="geometry" />
+            <mxGeometry x="30" y="100" width="270" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="前端" position="React框架" location="前端层" placeholders="1" link="" id="OrUbYamV3xKL4vjW-wNw-95">
           <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#61DAFB;strokeColor=#333;" vertex="1" parent="1">
-            <mxGeometry x="290" y="240" width="160" height="90" as="geometry" />
+            <mxGeometry x="320" y="260" width="160" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="后端" position="FastAPI框架" location="服务层" placeholders="1" link="" id="OrUbYamV3xKL4vjW-wNw-96">
