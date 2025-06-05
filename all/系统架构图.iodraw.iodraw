@@ -19,10 +19,10 @@
           <mxGeometry x="1039" y="450" width="471" height="300" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-366" value="风险评估" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="131" y="622" width="837" height="129" as="geometry" />
+          <mxGeometry x="135" y="622" width="837" height="129" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-367" value="数据采集与存储" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="70" y="358" width="902" height="224" as="geometry" />
+          <mxGeometry x="70" y="390" width="902" height="192" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-368" value="多源数据采集模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="459" width="188" height="49" as="geometry" />
