@@ -121,6 +121,7 @@
         <mxCell id="OrUbYamV3xKL4vjW-wNw-389" value="查询/修改" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.91;entryY=-0.01;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-378" target="OrUbYamV3xKL4vjW-wNw-371">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1119" y="408" />
               <mxPoint x="1098" y="443" />
               <mxPoint x="972" y="443" />
             </Array>
