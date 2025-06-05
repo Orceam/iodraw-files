@@ -62,13 +62,13 @@
           <mxGeometry x="290" y="465.5" width="70" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-136" value="地理数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="391.5" y="470" width="76.5" height="49" as="geometry" />
+          <mxGeometry x="385.25" y="465.5" width="76.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-137" value="水文数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="488" y="470" width="82" height="49" as="geometry" />
+          <mxGeometry x="488" y="465.75" width="82" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-138" value="历史灾害数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="588" y="470" width="104" height="49" as="geometry" />
+          <mxGeometry x="602" y="465.75" width="104" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-139" value="设备数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="731" y="465.75" width="77" height="49" as="geometry" />
