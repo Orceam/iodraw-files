@@ -137,13 +137,13 @@
         <mxCell id="OrUbYamV3xKL4vjW-wNw-194" value="表现层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="115" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-195" value="表现层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-195" value="服务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="235" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-196" value="表现层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-196" value="模型层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="355.25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-197" value="表现层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-197" value="模型层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="475" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
