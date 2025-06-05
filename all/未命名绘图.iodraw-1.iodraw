@@ -11,97 +11,97 @@
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="前端" position="React框架" location="表现层" email="前端展示与交互" _7EA6E0="#333" placeholders="1" link="https://reactjs.org" id="OrUbYamV3xKL4vjW-wNw-58">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/react-native.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#61DAFB;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="130" y="210" width="160" height="90" as="geometry" />
+            <mxGeometry x="20" y="560" width="160" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="后端" position="FastAPI框架" location="业务层" email="业务逻辑处理" _7EA6E0="#333" placeholders="1" link="https://fastapi.tiangolo.com" id="OrUbYamV3xKL4vjW-wNw-59">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/api-settings.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#009485;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="120" y="210" width="170" height="90" as="geometry" />
+            <mxGeometry x="230" y="570" width="170" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="数据库" position="MongoDB" location="数据层" email="数据存储与管理" _7EA6E0="#333" placeholders="1" link="https://www.mongodb.com" id="OrUbYamV3xKL4vjW-wNw-60">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/mongodb.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#3FA037;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="130" y="210" width="160" height="90" as="geometry" />
+            <mxGeometry x="530" y="760" width="160" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="外部API服务" position="第三方接口" location="接口层" email="外部数据服务" _7EA6E0="#333" placeholders="1" link="https://example.com/api" id="OrUbYamV3xKL4vjW-wNw-61">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/api.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#F9A825;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="120" y="210" width="170" height="90" as="geometry" />
+            <mxGeometry x="500" y="340" width="170" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="风险评估页面" position="前端组件" location="视图层" email="风险评估功能界面" _7EA6E0="#333" placeholders="1" link="https://example.com/risk" id="OrUbYamV3xKL4vjW-wNw-62">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/risk-管理.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#96D0F7;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="110" y="210" width="180" height="90" as="geometry" />
+            <mxGeometry x="970" y="840" width="180" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="设备调度页面" position="前端组件" location="视图层" email="设备调度功能界面" _7EA6E0="#333" placeholders="1" link="https://example.com/equipment" id="OrUbYamV3xKL4vjW-wNw-63">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/dispatch.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#96D0F7;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="110" y="210" width="180" height="90" as="geometry" />
+            <mxGeometry x="150" y="940" width="180" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="数据管理页面" position="前端组件" location="视图层" email="数据管理功能界面" _7EA6E0="#333" placeholders="1" link="https://example.com/data" id="OrUbYamV3xKL4vjW-wNw-64">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/database--v1.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#96D0F7;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="110" y="210" width="180" height="90" as="geometry" />
+            <mxGeometry x="400" y="620" width="180" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="UI组件库" position="前端组件" location="视图层" email="通用界面组件" _7EA6E0="#333" placeholders="1" link="https://ant.design" id="OrUbYamV3xKL4vjW-wNw-65">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/web-components.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#96D0F7;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="140" y="210" width="150" height="90" as="geometry" />
+            <mxGeometry x="310" y="1120" width="150" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="API接口路由" position="后端组件" location="控制层" email="请求路由处理" _7EA6E0="#333" placeholders="1" link="https://example.com/api/docs" id="OrUbYamV3xKL4vjW-wNw-66">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/routing.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#80CBC4;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="120" y="210" width="170" height="90" as="geometry" />
+            <mxGeometry x="340" y="420" width="170" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="服务层" position="后端组件" location="服务层" email="业务服务实现" _7EA6E0="#333" placeholders="1" link="https://example.com/services" id="OrUbYamV3xKL4vjW-wNw-67">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/service.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#80CBC4;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="140" y="210" width="150" height="90" as="geometry" />
+            <mxGeometry x="600" y="590" width="150" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="洪涝灾害模型" position="专业模型" location="模型层" email="风险评估实现" _7EA6E0="#333" placeholders="1" link="https://example.com/models/risk" id="OrUbYamV3xKL4vjW-wNw-68">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/flood.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#80CBC4;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="110" y="210" width="180" height="90" as="geometry" />
+            <mxGeometry x="760" y="720" width="180" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="设备调度模型" position="专业模型" location="模型层" email="设备调度实现" _7EA6E0="#333" placeholders="1" link="https://example.com/models/equipment" id="OrUbYamV3xKL4vjW-wNw-69">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/deployment.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#80CBC4;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="110" y="210" width="180" height="90" as="geometry" />
+            <mxGeometry x="390" y="890" width="180" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="大模型集成" position="AI模型" location="模型层" email="大模型集成实现" _7EA6E0="#333" placeholders="1" link="https://example.com/models/llm" id="OrUbYamV3xKL4vjW-wNw-70">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/artificial-intelligence.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#80CBC4;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="120" y="210" width="170" height="90" as="geometry" />
+            <mxGeometry x="700" y="400" width="170" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="位置模型" position="专业模型" location="模型层" email="位置与风险评估" _7EA6E0="#333" placeholders="1" link="https://example.com/models/location" id="OrUbYamV3xKL4vjW-wNw-71">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/map-marker.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#80CBC4;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="140" y="210" width="150" height="90" as="geometry" />
+            <mxGeometry x="730" y="990" width="150" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="城市风险数据" position="数据存储" location="数据模型" email="城市风险信息" _7EA6E0="#333" placeholders="1" link="https://example.com/data/city" id="OrUbYamV3xKL4vjW-wNw-72">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/city.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#A5D6A7;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="110" y="210" width="180" height="90" as="geometry" />
+            <mxGeometry x="20" y="2130" width="180" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="设备数据" position="数据存储" location="数据模型" email="应急设备信息" _7EA6E0="#333" placeholders="1" link="https://example.com/data/equipment" id="OrUbYamV3xKL4vjW-wNw-73">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/maintenance.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#A5D6A7;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="140" y="210" width="150" height="90" as="geometry" />
+            <mxGeometry x="20" y="2260" width="150" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="历史灾害数据" position="数据存储" location="数据模型" email="历史灾情记录" _7EA6E0="#333" placeholders="1" link="https://example.com/data/history" id="OrUbYamV3xKL4vjW-wNw-74">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/historical.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#A5D6A7;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="110" y="210" width="180" height="90" as="geometry" />
+            <mxGeometry x="20" y="2390" width="180" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="高德天气API" position="外部服务" location="接口服务" email="实时天气数据" _7EA6E0="#333" placeholders="1" link="https://lbs.amap.com/api/javascript-api/reference/weather" id="OrUbYamV3xKL4vjW-wNw-75">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/partly-cloudy-day.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFE082;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="120" y="210" width="170" height="90" as="geometry" />
+            <mxGeometry x="20" y="2510" width="170" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="大模型API" position="外部服务" location="接口服务" email="AI大模型服务" _7EA6E0="#333" placeholders="1" link="https://example.com/api/llm" id="OrUbYamV3xKL4vjW-wNw-76">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/chatgpt.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFE082;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="130" y="210" width="160" height="90" as="geometry" />
+            <mxGeometry x="20" y="2640" width="160" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-77" value="" style="curved=1;fontSize=11;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-58" target="OrUbYamV3xKL4vjW-wNw-59">
