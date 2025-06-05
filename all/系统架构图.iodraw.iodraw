@@ -12,7 +12,7 @@
             <mxPoint x="456.05479452054806" y="836.3698630136987" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-364" value="数据管理" style="whiteSpace=wrap;strokeWidth=2;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-364" value="数据管理" style="whiteSpace=wrap;strokeWidth=2;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="734" y="185" width="224" height="125" as="geometry" />
         </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-365" value="设备调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
