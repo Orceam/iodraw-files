@@ -16,7 +16,7 @@
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" name="后端" position="FastAPI框架" location="业务层" email="业务逻辑处理" _7EA6E0="#333" placeholders="1" link="https://fastapi.tiangolo.com" id="OrUbYamV3xKL4vjW-wNw-59">
           <mxCell style="label;image=https://img.icons8.com/color/48/000000/api-settings.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#009485;strokeColor=%stroke%;" vertex="1" parent="1">
-            <mxGeometry x="230" y="570" width="170" height="90" as="geometry" />
+            <mxGeometry x="220" y="570" width="170" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="数据库" position="MongoDB" location="数据层" email="数据存储与管理" _7EA6E0="#333" placeholders="1" link="https://www.mongodb.com" id="OrUbYamV3xKL4vjW-wNw-60">
