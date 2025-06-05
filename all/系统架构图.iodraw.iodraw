@@ -38,6 +38,9 @@
             <mxPoint x="1030" y="483.3333333333335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OrUbYamV3xKL4vjW-wNw-400" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-371" target="OrUbYamV3xKL4vjW-wNw-373">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-371" value="MongoDB 数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="764" y="459" width="177" height="49" as="geometry" />
         </mxCell>
