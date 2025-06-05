@@ -72,15 +72,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OrUbYamV3xKL4vjW-wNw-226" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=0.99;entryX=0;entryY=0.19;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-215" target="OrUbYamV3xKL4vjW-wNw-217">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="972" y="195" />
-              <mxPoint x="1120" y="222" />
-              <mxPoint x="1098" y="304" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OrUbYamV3xKL4vjW-wNw-227" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="OrUbYamV3xKL4vjW-wNw-217" target="OrUbYamV3xKL4vjW-wNw-218">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
