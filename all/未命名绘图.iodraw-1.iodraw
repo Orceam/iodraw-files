@@ -16,7 +16,7 @@
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="风险评估页面" position="前端模块" location="前端模块" placeholders="1" link="" id="OrUbYamV3xKL4vjW-wNw-159">
           <mxCell style="label;image=;whiteSpace=wrap;html=1;rounded=1;fillColor=#96D0F7;strokeColor=#333;" vertex="1" parent="1">
-            <mxGeometry x="20" y="280" width="180" height="90" as="geometry" />
+            <mxGeometry x="290" y="200" width="180" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="设备调度页面" position="前端模块" location="前端模块" placeholders="1" link="" id="OrUbYamV3xKL4vjW-wNw-160">
