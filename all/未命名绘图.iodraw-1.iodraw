@@ -1,0 +1,99 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="xr32EuZGagygHHkSU8qE">
+    <mxGraphModel dx="2039" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VKeG_e9lopbrYcQ9g3O6-1" value="用户" style="ellipse;shape=doubleEllipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="59" y="20" width="57" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="VKeG_e9lopbrYcQ9g3O6-2" value="前端界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="25" y="157" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VKeG_e9lopbrYcQ9g3O6-3" value="后端服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="74" y="287" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VKeG_e9lopbrYcQ9g3O6-4" value="MongoDB" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="80" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="VKeG_e9lopbrYcQ9g3O6-5" value="大模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="82" y="390" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VKeG_e9lopbrYcQ9g3O6-6" value="调度算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="118" y="493" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VKeG_e9lopbrYcQ9g3O6-7" value="问题查询" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.31;entryY=0;rounded=0;" edge="1" parent="1" source="VKeG_e9lopbrYcQ9g3O6-1" target="VKeG_e9lopbrYcQ9g3O6-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="114" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VKeG_e9lopbrYcQ9g3O6-8" value="用户问题" style="curved=1;startArrow=none;endArrow=block;exitX=0.42;exitY=1.01;entryX=0.25;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VKeG_e9lopbrYcQ9g3O6-2" target="VKeG_e9lopbrYcQ9g3O6-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VKeG_e9lopbrYcQ9g3O6-9" value="获取数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1.01;entryX=0.68;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VKeG_e9lopbrYcQ9g3O6-4" target="VKeG_e9lopbrYcQ9g3O6-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="192" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VKeG_e9lopbrYcQ9g3O6-10" value="1. 用户问题" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=0.99;entryX=0.42;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VKeG_e9lopbrYcQ9g3O6-3" target="VKeG_e9lopbrYcQ9g3O6-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="119" y="363" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VKeG_e9lopbrYcQ9g3O6-11" value="2. 提取功能需求" style="curved=1;startArrow=none;endArrow=block;exitX=0.42;exitY=0.99;entryX=0.27;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VKeG_e9lopbrYcQ9g3O6-5" target="VKeG_e9lopbrYcQ9g3O6-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="119" y="466" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VKeG_e9lopbrYcQ9g3O6-12" value="3. 风险/设备/通信数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1.01;entryX=0.84;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VKeG_e9lopbrYcQ9g3O6-4" target="VKeG_e9lopbrYcQ9g3O6-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="267" y="250" />
+              <mxPoint x="267" y="466" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VKeG_e9lopbrYcQ9g3O6-13" value="4. 设备推荐&#xa;风险评估" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=-0.01;entryX=0.82;entryY=0.99;rounded=0;" edge="1" parent="1" source="VKeG_e9lopbrYcQ9g3O6-6" target="VKeG_e9lopbrYcQ9g3O6-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="208" y="466" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VKeG_e9lopbrYcQ9g3O6-14" value="5. 综合调度建议" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=-0.01;entryX=0.77;entryY=0.99;rounded=0;" edge="1" parent="1" source="VKeG_e9lopbrYcQ9g3O6-5" target="VKeG_e9lopbrYcQ9g3O6-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="363" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VKeG_e9lopbrYcQ9g3O6-15" value="6. 结果展示" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=-0.01;entryX=0.64;entryY=1.01;rounded=0;" edge="1" parent="1" source="VKeG_e9lopbrYcQ9g3O6-3" target="VKeG_e9lopbrYcQ9g3O6-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="136" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VKeG_e9lopbrYcQ9g3O6-16" value="调度建议与可视化数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=1;entryY=0.97;rounded=0;" edge="1" parent="1" source="VKeG_e9lopbrYcQ9g3O6-2" target="VKeG_e9lopbrYcQ9g3O6-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="156" y="114" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
