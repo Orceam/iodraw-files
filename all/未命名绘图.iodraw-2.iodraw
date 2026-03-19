@@ -45,7 +45,10 @@
           <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-19" value="铁塔计算净额差" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
