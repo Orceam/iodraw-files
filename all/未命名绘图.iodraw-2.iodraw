@@ -76,7 +76,10 @@
           <mxGeometry x="680" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-28" value="联通带电信起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-29" value="电联净额差值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="540" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
