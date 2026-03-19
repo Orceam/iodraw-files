@@ -19,7 +19,7 @@
           <mxGeometry x="230" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-4" value="联通电联分割账单（包含设备明细）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-7" target="rXGzMzqjrCswdojRa721-32">
           <mxGeometry relative="1" as="geometry" />
@@ -31,7 +31,7 @@
           <mxGeometry x="110" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-10" value="电信电联分割账单（包含设备明细）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-16" target="rXGzMzqjrCswdojRa721-17">
           <mxGeometry relative="1" as="geometry" />
@@ -51,7 +51,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-17" value="联通带电信起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-18" value="铁塔信息分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="410" width="120" height="60" as="geometry" />
