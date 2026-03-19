@@ -7,7 +7,7 @@
         <mxCell id="rXGzMzqjrCswdojRa721-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-1" target="rXGzMzqjrCswdojRa721-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXGzMzqjrCswdojRa721-13" value="取联通设备RRU能耗数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rXGzMzqjrCswdojRa721-12">
+        <mxCell id="rXGzMzqjrCswdojRa721-13" value="结合联通设备RRU能耗数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rXGzMzqjrCswdojRa721-12">
           <mxGeometry x="-0.4168" y="-2" relative="1" as="geometry">
             <mxPoint x="2" y="29" as="offset" />
           </mxGeometry>
@@ -41,7 +41,7 @@
         <mxCell id="rXGzMzqjrCswdojRa721-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-16" target="rXGzMzqjrCswdojRa721-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXGzMzqjrCswdojRa721-15" value="取电信设备RRU能耗数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rXGzMzqjrCswdojRa721-14">
+        <mxCell id="rXGzMzqjrCswdojRa721-15" value="结合电信设备RRU能耗数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rXGzMzqjrCswdojRa721-14">
           <mxGeometry x="-0.4168" y="-2" relative="1" as="geometry">
             <mxPoint x="2" y="29" as="offset" />
           </mxGeometry>
@@ -49,7 +49,7 @@
         <mxCell id="rXGzMzqjrCswdojRa721-16" value="联通代提订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rXGzMzqjrCswdojRa721-17" value="电信带联通起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rXGzMzqjrCswdojRa721-17" value="联通带电信起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
