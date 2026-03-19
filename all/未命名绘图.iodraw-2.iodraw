@@ -48,7 +48,7 @@
           <mxGeometry x="200" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-23" target="rXGzMzqjrCswdojRa721-24">
           <mxGeometry relative="1" as="geometry" />
@@ -59,10 +59,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-23" value="电信代提订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-24" value="电信带联通起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-27" target="rXGzMzqjrCswdojRa721-28">
           <mxGeometry relative="1" as="geometry" />
@@ -73,10 +73,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-27" value="联通代提订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-28" value="联通带电信起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
