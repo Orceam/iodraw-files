@@ -53,7 +53,7 @@
         <mxCell id="rXGzMzqjrCswdojRa721-29" value="电联净额差值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="530" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rXGzMzqjrCswdojRa721-32" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rXGzMzqjrCswdojRa721-32" value="是否多缴费" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="550" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
