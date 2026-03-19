@@ -111,6 +111,107 @@
         <mxCell id="rXGzMzqjrCswdojRa721-70" value="台账增加差值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="440" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-78" target="rXGzMzqjrCswdojRa721-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-77" value="结合联通设备RRU能耗数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rXGzMzqjrCswdojRa721-76">
+          <mxGeometry x="-0.4168" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-78" value="电信代提订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-80" value="联通电联分割账单（包含设备明细）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-83" target="rXGzMzqjrCswdojRa721-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-83" target="rXGzMzqjrCswdojRa721-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-83" value="电信带联通起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-85" target="rXGzMzqjrCswdojRa721-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-85" value="电信电联分割账单（包含设备明细）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-88" target="rXGzMzqjrCswdojRa721-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-87" value="结合电信设备RRU能耗数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rXGzMzqjrCswdojRa721-86">
+          <mxGeometry x="-0.4168" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-88" value="联通代提订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-91" target="rXGzMzqjrCswdojRa721-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-91" target="rXGzMzqjrCswdojRa721-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-91" value="联通带电信起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-94" target="rXGzMzqjrCswdojRa721-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-94" target="rXGzMzqjrCswdojRa721-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-94" value="铁塔信息分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-96" target="rXGzMzqjrCswdojRa721-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-96" value="铁塔计算净额差" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-97" value="T月电联净额差值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="330" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-101" target="rXGzMzqjrCswdojRa721-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-99" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rXGzMzqjrCswdojRa721-98">
+          <mxGeometry x="-0.279" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-101" target="rXGzMzqjrCswdojRa721-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-101" value="是否多缴费" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="350" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-102" value="当月应缴台账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-104" target="rXGzMzqjrCswdojRa721-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-104" value="台账减去差值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="430" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-106" target="rXGzMzqjrCswdojRa721-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-106" value="台账增加差值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="430" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
