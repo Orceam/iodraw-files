@@ -74,7 +74,7 @@
           <mxGeometry x="260" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-20" value="T月电联净额差值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-29" value="T-1月电联净额差值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="520" width="120" height="40" as="geometry" />
