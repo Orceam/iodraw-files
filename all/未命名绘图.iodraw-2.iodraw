@@ -42,7 +42,7 @@
           <mxGeometry x="300" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-18" value="铁塔信息分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-19" value="铁塔计算净额差" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="520" width="120" height="60" as="geometry" />
