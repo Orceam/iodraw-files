@@ -84,6 +84,11 @@
         <mxCell id="rXGzMzqjrCswdojRa721-20" value="T月电联净额差值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="320" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rXGzMzqjrCswdojRa721-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-29" value="T-1月电联净额差值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="320" width="80" height="40" as="geometry" />
         </mxCell>
