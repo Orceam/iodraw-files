@@ -24,8 +24,8 @@
         <mxCell id="rXGzMzqjrCswdojRa721-4" value="联通设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rXGzMzqjrCswdojRa721-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="rXGzMzqjrCswdojRa721-7" value="取联通RRU能耗数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
