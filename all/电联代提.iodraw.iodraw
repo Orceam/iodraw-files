@@ -222,6 +222,12 @@
         <mxCell id="rXGzMzqjrCswdojRa721-137" value="台账增加差值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="440" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rXGzMzqjrCswdojRa721-140" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="400" as="sourcePoint" />
+            <mxPoint x="500" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
