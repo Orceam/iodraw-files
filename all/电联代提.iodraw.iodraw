@@ -29,7 +29,7 @@
         <mxCell id="rXGzMzqjrCswdojRa721-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rXGzMzqjrCswdojRa721-7" target="rXGzMzqjrCswdojRa721-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXGzMzqjrCswdojRa721-7" value="电信带联通起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rXGzMzqjrCswdojRa721-7" value="电信代联通起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rXGzMzqjrCswdojRa721-10" target="rXGzMzqjrCswdojRa721-19" edge="1">
@@ -165,7 +165,7 @@
             <mxPoint x="2" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rXGzMzqjrCswdojRa721-119" value="联通代提订单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rXGzMzqjrCswdojRa721-119" value="联通待起订单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rXGzMzqjrCswdojRa721-122" target="rXGzMzqjrCswdojRa721-132" edge="1">
