@@ -207,16 +207,16 @@
           <mxGeometry x="380" y="310" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9GovEuUSDTQTC7L4_h8w-92" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="210" width="110" height="270" as="geometry" />
+          <mxGeometry x="420" y="210" width="110" height="270" as="geometry" />
         </mxCell>
         <mxCell id="9GovEuUSDTQTC7L4_h8w-93" value="应交台账计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="435" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9GovEuUSDTQTC7L4_h8w-94" value="当月电联净额差值计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="370" width="80" height="40" as="geometry" />
+          <mxGeometry x="435" y="370" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9GovEuUSDTQTC7L4_h8w-95" value="铁塔台账处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="180" width="75" height="30" as="geometry" />
+          <mxGeometry x="440" y="180" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9GovEuUSDTQTC7L4_h8w-96" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="160" width="120" height="410" as="geometry" />
