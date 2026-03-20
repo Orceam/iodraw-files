@@ -182,6 +182,9 @@
         <mxCell id="9GovEuUSDTQTC7L4_h8w-81" value="电信应缴台账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="480" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9GovEuUSDTQTC7L4_h8w-82" value="电信电联分割账单（包含设备明细）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
