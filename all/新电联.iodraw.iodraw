@@ -229,8 +229,8 @@
             <mxPoint x="3" y="16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9GovEuUSDTQTC7L4_h8w-97" value="带起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="190" width="100" height="40" as="geometry" />
+        <mxCell id="9GovEuUSDTQTC7L4_h8w-97" value="T月带起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="230" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9GovEuUSDTQTC7L4_h8w-99" value="T月应缴台账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="500" width="100" height="40" as="geometry" />
