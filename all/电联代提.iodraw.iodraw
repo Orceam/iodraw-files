@@ -103,6 +103,11 @@
         <mxCell id="rXGzMzqjrCswdojRa721-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rXGzMzqjrCswdojRa721-32" target="rXGzMzqjrCswdojRa721-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lRhSaPSdhVBRi0x9Ti1D-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rXGzMzqjrCswdojRa721-71">
+          <mxGeometry x="0.4425" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-32" value="是否多缴费" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="360" width="80" height="40" as="geometry" />
         </mxCell>
