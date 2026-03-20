@@ -245,7 +245,10 @@
           <mxGeometry x="692.5" y="170" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9GovEuUSDTQTC7L4_h8w-105" value="T月带起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="260" width="100" height="40" as="geometry" />
+          <mxGeometry x="680" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9GovEuUSDTQTC7L4_h8w-106" value="电信电联分割账单（包含设备明细）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="450" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
