@@ -236,13 +236,13 @@
           <mxGeometry x="550" y="500" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9GovEuUSDTQTC7L4_h8w-102" value="应交台账计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="165" width="75" height="30" as="geometry" />
+          <mxGeometry x="562.5" y="170" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9GovEuUSDTQTC7L4_h8w-103" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="160" width="120" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="9GovEuUSDTQTC7L4_h8w-104" value="应交台账计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="692.5" y="165" width="75" height="30" as="geometry" />
+        <mxCell id="9GovEuUSDTQTC7L4_h8w-104" value="当月电联净额差值计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="692.5" y="170" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
