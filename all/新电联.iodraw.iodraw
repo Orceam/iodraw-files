@@ -170,7 +170,7 @@
         <mxCell id="9GovEuUSDTQTC7L4_h8w-76" value="电信台账信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9GovEuUSDTQTC7L4_h8w-77" value="电信台账信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9GovEuUSDTQTC7L4_h8w-77" value="联通台账信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
