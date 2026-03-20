@@ -148,7 +148,7 @@
         <mxCell id="rXGzMzqjrCswdojRa721-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rXGzMzqjrCswdojRa721-114" target="rXGzMzqjrCswdojRa721-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXGzMzqjrCswdojRa721-114" value="电信带联通起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rXGzMzqjrCswdojRa721-114" value="电信代联通起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rXGzMzqjrCswdojRa721-116" target="rXGzMzqjrCswdojRa721-127" edge="1">
@@ -174,7 +174,7 @@
         <mxCell id="rXGzMzqjrCswdojRa721-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rXGzMzqjrCswdojRa721-122" target="rXGzMzqjrCswdojRa721-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXGzMzqjrCswdojRa721-122" value="联通带电信起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rXGzMzqjrCswdojRa721-122" value="联通代电信起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rXGzMzqjrCswdojRa721-125" target="rXGzMzqjrCswdojRa721-116" edge="1">
