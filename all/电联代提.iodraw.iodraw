@@ -55,7 +55,7 @@
         <mxCell id="rXGzMzqjrCswdojRa721-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rXGzMzqjrCswdojRa721-17" target="rXGzMzqjrCswdojRa721-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rXGzMzqjrCswdojRa721-17" value="联通带电信起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rXGzMzqjrCswdojRa721-17" value="联通代电信起租电费台账" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rXGzMzqjrCswdojRa721-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rXGzMzqjrCswdojRa721-18" target="rXGzMzqjrCswdojRa721-10" edge="1">
